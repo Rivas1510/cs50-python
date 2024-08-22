@@ -1,0 +1,10 @@
+# al entregarselo al programa adecuado sirve para todos los computadores
+# error de la regla de la escrituras de  un lenguaje se llama syntaxis, el interprete lo mostrara como syntaxError.
+# los lenguajes de programacion vienen con funciones incorporadas como la funcion print. si queremos ejecutar una funscion, hay que agregar los (). dentro de los () van los parametros de la funcion.
+print("hola")
+
+# la funcion incorporada print, recibe como parametro o argumento lo que va a mostrar en la pantalla.
+
+# no solo pueden ser cadenas de textos, pueden ser numeros.
+
+# los bugs (bichos) son errores en un programa y pueden ocurrir de forma frecuente. nuestra mision es escribir codigos libres de bichos.
